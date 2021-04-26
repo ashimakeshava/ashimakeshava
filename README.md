@@ -1,12 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
 You've found yourself on my GitHub profile.
 
+### About Me
 I am a Cognitive Science PhD student. I study vision in natural environments while interacting with the world. I've spent most of my PhD time understanding human behavior in virtual environments. My current research interests are `embodied cognition`, `human-machine interaction`, `intention recognition`, `neuro-ergonomics`
 
-Don't know what you're looking for? Here's some of my projects that might interest you:
+###Don't know what you're looking for?
+Here's some of my projects that might interest you:
 
-:point_right: [Here](https://github.com/ashimakeshava/neuro_datasci) is an online course I created for absolute beginners to get into neuro-based data science.
+:point_right: [**Here**](https://github.com/ashimakeshava/neuro_datasci) is an online course I created for absolute beginners to get into neuro-based data science.
+
+:point_right: [**Here**](https://github.com/ashimakeshava/ergovr_gaze_guidance) is my project repo for one of my PhD projects, where we investigate eye movements in VR while performing a novel natural task.
+
+:point_right: [**Here**](https://github.com/ashimakeshava/ergovr_gaze_guidance) is my project repo for one of my PhD projects, where we investigate eye movements in VR while interacting with novel objects. Results out soon!
+
+:point_right: [**Here**](https://github.com/ashimakeshava/VR_ET_comp) is my project repo where we compare performance of two different VR headsets using multiple tests. Results out soon!
 
 
 
