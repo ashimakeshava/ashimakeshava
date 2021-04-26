@@ -1,11 +1,11 @@
 ## Hey there 👋
 
-Looks like you've stumbled onto my GitHub profile. Let me hold you a little bit longer. :eyes:
+Looks like you've stumbled onto my GitHub profile. Let me hold you a little bit longer.
 
 ### About Me
 I am a Cognitive Science PhD student. I study vision in natural environments while interacting with the world. I've spent most of my PhD time understanding human behavior in virtual environments. My current research interests are `embodied cognition`, `human-machine interaction`, `intention recognition`, `neuro-ergonomics`
 
-### Don't know what you're looking for?
+### Looking for something interesting?
 Here's some of my projects that might interest you:
 
 :point_right: [**Here**](https://github.com/ashimakeshava/neuro_datasci) is an online course I created for absolute beginners to get into neuro-based data science.
