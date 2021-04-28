@@ -10,9 +10,11 @@ Here's some of my projects that might interest you:
 
 :point_right: [**Here**](https://github.com/ashimakeshava/neuro_datasci) is an online course I created for absolute beginners to get into neuro-based data science.
 
-:point_right: [**Here**](https://github.com/ashimakeshava/ergovr_gaze_guidance) is a project where we investigate eye movements in VR while performing a novel natural task. Results out soon!
+:point_right: [**Here**](https://github.com/ashimakeshava/intuitions) I curate code and visualizations to build intuitions about topics.
 
-:point_right: [**Here**](https://github.com/ashimakeshava/gaze_tool_interaction) is a project where we investigate eye movements in VR while interacting with novel objects. Results out soon!
+:point_right: [**Here**](https://github.com/ashimakeshava/ergovr_gaze_guidance) is a project where we investigate eye movements in VR while performing a novel natural task.
+
+:point_right: [**Here**](https://github.com/ashimakeshava/gaze_tool_interaction) is a project where we investigate eye movements in VR while interacting with novel objects.
 
 :point_right: [**Here**](https://github.com/ashimakeshava/VR_ET_comp) is a project where we compare performance of two different VR headsets using multiple tests. Results out soon!
 
