@@ -3,7 +3,7 @@
 Looks like you've stumbled onto my GitHub profile. Let me hold you a little bit longer.
 
 ### About Me
-I am a Cognitive Science PhD student. I study vision in natural environments while interacting with the world. I've spent most of my PhD time understanding human goal-oriented planning and anticipatory behavior in virtual environments. My current research interests are `embodied cognition`, `human-machine interaction`, `intention recognition`, `neuro-ergonomics`
+I am a Cognitive Science PhD student. I study vision in naturalistic environments while interacting with the world. I've spent most of my PhD time understanding human goal-oriented planning and anticipatory behavior in virtual environments. My current research interests are `embodied cognition`, `human-machine interaction`, `intention recognition`, `neuro-ergonomics`
 
 ### Looking for something interesting?
 Here's some of my projects that might interest you:
